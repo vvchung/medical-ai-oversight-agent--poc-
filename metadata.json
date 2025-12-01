@@ -1,0 +1,5 @@
+{
+  "name": "Medical AI Oversight Agent (PoC)",
+  "description": "A Concept Verification (PoC) dashboard for the 'AI Logic Forensic' system, verifying the feasibility of using RAG to localize and correct HuatuoGPT for Taiwan's medical context.",
+  "requestFramePermissions": []
+}
