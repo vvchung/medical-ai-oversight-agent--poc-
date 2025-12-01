@@ -23,6 +23,7 @@ const Dashboard: React.FC = () => (
         </h1>
         <p className="text-slate-300 text-lg max-w-2xl leading-relaxed">
           台灣在地化知識庫掛載與邏輯校正之可行性評估。
+          <br/>
           建立「AI 邏輯法醫」機制，利用 RAG 技術強制修正大型語言模型之認知偏差。
         </p>
       </div>
