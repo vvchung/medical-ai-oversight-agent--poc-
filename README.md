@@ -113,6 +113,8 @@ src/
 *   所有醫療建議均由 AI 生成，**嚴禁** 直接用於真實臨床決策。
 *   本系統目前使用「合成數據」進行測試，不涉及任何真實病患隱私。
 
-> **Made with ❤️ for Taiwan's Medical AI Safety**
 
-_陳報日期：2025 年 11 月 27 日_
+<div align="center">
+  <p>Made with ❤️ for Taiwan's Medical AI Safety</p>
+  <p>_陳報日期：2025 年 11 月 27 日_</p>
+</div>
