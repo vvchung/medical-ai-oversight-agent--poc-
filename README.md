@@ -56,13 +56,20 @@
 
 ---
 
-## 🚀 快速啟動 (Quick Start)
+## 🚀 啟動與部署您的 AI Studio 應用程式
 
-### 前置需求
+這裡有您在自家電腦上運行 App 所需的一切寶貝！
+
+👀 **在 AI Studio 瞧瞧您的 App：** [https://ai.studio/apps/drive/1mxbu5xyILYO8NlMxPtfmJTPwot1AN0UM](https://ai.studio/apps/drive/1mxbu5xyILYO8NlMxPtfmJTPwot1AN0UM)
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+### 💻 在本機端運行
+
+**前置準備**：
 *   Node.js 18+
 *   Google Gemini API Key (用於模擬雙重人格 AI)
 
-### 安裝與執行
+**安裝與執行**：
 
 ```bash
 # 1. Clone 專案
